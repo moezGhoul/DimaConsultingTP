@@ -22,7 +22,11 @@ public enum EnumTypeCommand {
 
 	public String getLibelle() {
 		return libelle;
+<<<<<<< HEAD
 		hjhjhj
+=======
+		//hjhjhj
+>>>>>>> 277cd85... comment
 	}
 
 	public Command getCommand() {
