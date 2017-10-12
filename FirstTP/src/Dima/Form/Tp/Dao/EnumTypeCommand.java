@@ -22,6 +22,7 @@ public enum EnumTypeCommand {
 
 	public String getLibelle() {
 		return libelle;
+		//hjhjhj
 	}
 
 	public Command getCommand() {
