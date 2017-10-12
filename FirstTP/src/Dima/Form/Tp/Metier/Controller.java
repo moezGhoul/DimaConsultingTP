@@ -23,7 +23,7 @@ public class Controller {
 	private Controller() {
 		init();
 	}
-	
+	teste qd
 	public static Controller getInstance()
 	{
 		return instance;
